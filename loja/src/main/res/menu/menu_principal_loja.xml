@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/id_dados_loja"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Dados Loja" />
+    <item
+        android:id="@+id/id_tempo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Taxa &amp; Tempo" />
+    <item
+        android:id="@+id/menu_cardapio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Cardápio" />
+    <item
+        android:id="@+id/id_sair"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Sair" />
+</menu>
